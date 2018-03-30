@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
-ruby '2.3.5'
+ruby '2.5.1'
 
+#most popular Ruby gem for interacting with Salesforce using the Salesforce API
+gem 'restforce', '~> 2.5.3'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails'
 # Use postgresql as the database for Active Record
