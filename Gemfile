@@ -6,7 +6,7 @@ gem 'restforce', '~> 2.5.3'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails'
 # Use postgresql as the database for Active Record
-gem 'pg', '~> 1.0.0'
+gem 'pg', '~> 0.18'
 gem 'rails_12factor', group: :production
 # Use SCSS for stylesheets
 gem 'sass-rails'
